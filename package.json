@@ -1,0 +1,16 @@
+{
+  "name": "marvelhero",
+  "version": "0.1.0",
+  "description": "Get a random marvel hero name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "random",
+    "marvel"
+  ],
+  "author": "Stephan Hoyer <ste.hoyer@gmail.com>",
+  "license": "MIT"
+}
